@@ -1,0 +1,1 @@
+esxcli system syslog config set --loghost=192.168.1.105
